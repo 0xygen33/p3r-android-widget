@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moon Calendar</string>
+    <string name="widget_desc">Data e fase lunare</string>
+    <string name="wallpaper_desc">Data e luna animate</string>
+</resources>
